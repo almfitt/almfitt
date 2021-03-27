@@ -1,4 +1,4 @@
-a = input('MY name is ')
+#a = input('MY name is ')
 b = input('YOU ARE MAN: ')
 b = input('YOU ARE MAN: ')
 b = input('YOU ARE MAN: ')
